@@ -13,7 +13,7 @@ Aplicación de tipo formulario hecha con **React JS** usando **create-react-app*
 ## Cómo descargarla y ejecutarla
 
 ```bash
-git clone https://github.com/USUARIO/formulario-react-unpilar.git
+git clone https://github.com/emiireal/formulario-react-unpilar.git
 cd formulario-react-unpilar
 npm install
 npm start
